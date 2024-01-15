@@ -17,6 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Full-Price-nonStop-underDOG&style=flat-square&color=blue" alt=""/>
   <h1>
   welcome here
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif)https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="30px"/>
 </h1>
 </div>
