@@ -20,3 +20,6 @@
   <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="60px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcyYjVkcjliYmthbXo4MHhpYmVuZ3hhcWEweGJ1dm9kdnZhb2syOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2KAGlmkPywhZS/giphy.gif" width="600" height="300"/>
+</div>
