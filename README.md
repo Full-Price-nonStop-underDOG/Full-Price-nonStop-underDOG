@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ib1qN49N6qDqNJ8uGD/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://habr.com/ru/users/bookNestling/" target="_blank">
+    <a href="https://habr.com/ru/users/bookNestling/" target="blank">
       <img src="https://img.shields.io/badge/habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
     </a>
     <a href="https://hh.ru/applicant/settings?from=header_new&hhtmFromLabel=header_new&hhtmFrom=resume_list" target="_blank">
