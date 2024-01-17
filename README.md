@@ -26,5 +26,6 @@
 </div>
 <div>
   :woman_technologist: About Me :
+  I'm a front-end developer and also a little back-end developer.
 </div>
   
